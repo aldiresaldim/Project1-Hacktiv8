@@ -94,12 +94,6 @@ func Init() []Biodata {
 			Alasan:    "Belajar Bahasa Go",
 		},
 		{
-			Nama:      "Billy Wang",
-			Alamat:    "Indonesia",
-			Pekerjaan: "Junior Back-End Developer",
-			Alasan:    "Belajar Bahasa Go",
-		},
-		{
 			Nama:      "Jason Christian",
 			Alamat:    "Indonesia",
 			Pekerjaan: "Junior Back-End Developer",
