@@ -82,12 +82,6 @@ func Init() []Biodata {
 			Alasan:    "Belajar Bahasa Go",
 		},
 		{
-			Nama:      "Ronald Lie",
-			Alamat:    "Indonesia",
-			Pekerjaan: "Junior Back-End Developer",
-			Alasan:    "Belajar Bahasa Go",
-		},
-		{
 			Nama:      "Dedi Chandra",
 			Alamat:    "Indonesia",
 			Pekerjaan: "Junior Back-End Developer",
